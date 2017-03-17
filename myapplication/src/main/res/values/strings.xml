@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">miniprojetVersion0</string>
+    <string name="username">User Name</string>
+    <string name="Password">Password</string>
+    <string name="psw">****</string>
+    <string name="Submit">Submit</string>
+</resources>
